@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ежедневник</string>
+    <string name="event_title_user_input">Название события</string>
+    <string name="event_time_user_input">Время события</string>
+    <string name="event_notes_user_input">Заметки к событию</string>
+    <string name="calendar_view">Календарь</string>
+    <string name="save_button">Сохранить</string>
+    <string name="no_title">Введите название события!</string>
+    <string name="alertTitle">Записано!</string>
+    <string name="alertEvent_title">Событие: </string>
+    <string name="alertEvent_date">Дата: </string>
+    <string name="alertEvent_time">Время: </string>
+    <string name="alertEvent_notes">Заметки: </string>
+
+</resources>
