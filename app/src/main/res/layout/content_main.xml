@@ -41,7 +41,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="time"
+            android:inputType="datetime|date|time"
             android:hint="@string/event_time_user_input" />
     </com.google.android.material.textfield.TextInputLayout>
 
